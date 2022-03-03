@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "tutorial python brasil"
+name = "tutorial-pybr"
 version = "0.1.0"
 description = ""
 authors = ["Ana Flavia Lopes <anaflvialo@gmail.com>"]
