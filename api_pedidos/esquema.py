@@ -1,4 +1,3 @@
-from nturl2path import url2pathname
 from pydantic import BaseModel
 
 
